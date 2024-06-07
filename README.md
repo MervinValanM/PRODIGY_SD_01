@@ -1,4 +1,4 @@
-# PRODIGY_SD_01
+# PROJECT_Temperature_Converter
 
 ### Temperature Converter
 
